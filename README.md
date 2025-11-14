@@ -18,4 +18,6 @@ Lab exercises tracks:
 
 - [Lab 6](lab6.pdf) solution [here](Notebooks/Lab6-IDandDensityEstimation.ipynb)
 
-- [Lab 7](lab7.pdf)
+- [Lab 7](lab7.pdf) solution [here](Notebooks/Lab7-kMeans.ipynb)
+
+- [Lab 8](lab8.pdf)
