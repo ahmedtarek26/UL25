@@ -20,4 +20,12 @@ Lab exercises tracks:
 
 - [Lab 7](lab7.pdf) solution [here](Notebooks/Lab7-kMeans.ipynb)
 
-- [Lab 8](lab8.pdf)
+- [Lab 8](lab8.pdf) solution [here](Notebooks/Lab8-kMedoids&cMeans.ipynb)
+
+- [Lab 9](lab9.pdf) 
+
+Further reading:
+
+ - Using k-means for quantization in vector databases (using also GPUs) [FAISS](https://arxiv.org/pdf/2401.08281)
+
+
