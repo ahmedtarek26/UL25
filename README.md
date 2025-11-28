@@ -22,10 +22,20 @@ Lab exercises tracks:
 
 - [Lab 8](lab8.pdf) solution [here](Notebooks/Lab8-kMedoids&cMeans.ipynb)
 
-- [Lab 9](lab9.pdf) 
+- [Lab 9](lab9.pdf) solution [here](Notebooks/Lab9-HierarchicalandSpectral.ipynb) 
+
+- [Lab 10](lab10.pdf) 
 
 Further reading:
 
  - Using k-means for quantization in vector databases (using also GPUs) [FAISS](https://arxiv.org/pdf/2401.08281)
+
+ - Density Peak original paper [DP Clustering](https://www.science.org/doi/10.1126/science.1242072)
+
+ - [TWO NN](https://www.nature.com/articles/s41598-017-11873-y)
+
+ - Dadapy repository [DADApy](https://github.com/sissa-data-science/DADApy): comprehensive repository on modern unsupervised learning methods
+
+ 
 
 
